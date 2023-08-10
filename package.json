@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+"https://github.com/rahulsups/n
+    "url": "git+"https://github.com/Nakshatrabindhu/Node-js-Authentication.git"
   },
   "keywords": [],
   "author": "Nakshatra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nodejs-auth/issues"
+    "url": "https://github.com/Nakshatrabindhu/Node-js-Authentication.git"
   },
   "homepage": "https://github.com/nodejs-auth#readme",
   "dependencies": {
